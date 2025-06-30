@@ -1,0 +1,12 @@
+adx_editexistingrecordpermitted: true
+adx_filecontent: 
+adx_multiplerecordsperuserpermitted: true
+adx_name: Create Job Application
+adx_progressindicatorenabled: true
+adx_progressindicatorposition: 756150000
+adx_startstep: ''
+adx_webformid: 564bc126-9146-4641-a792-501392676d24
+adx_webFormSteps:
+- []
+- []
+- []

@@ -1,0 +1,42 @@
+- adx_name: Restrict Read on Job Opening
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - a086f184-f650-f011-877a-002248d623a7
+  adx_webpageaccesscontrolruleid: 43a47b84-7ab0-1ca0-bf3b-b4e37e18f100
+  adx_webpageid: 3c010270-60dc-ba98-aa0d-7b4ef3411417
+- adx_filecontent: 
+  adx_name: Restrict Read on Job Applications
+  adx_right: 2
+  adx_scope: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - a086f184-f650-f011-877a-002248d623a7
+  adx_webpageaccesscontrolruleid: 4659b101-f95f-8da4-ae2c-1bbfe05f671b
+  adx_webpageid: c2a1eda5-878b-2f61-3969-82cb7c7be0e5
+- adx_filecontent: 
+  adx_name: Restrict Read on Home
+  adx_right: 2
+  adx_scope: 2
+  adx_webpageaccesscontrolrule_webrole:
+  - 112816ca-53c8-4065-9f1a-b901cfa0f45c
+  - fca95bfe-e166-4c92-99cc-4c0ab427d585
+  adx_webpageaccesscontrolruleid: 49d6841e-2f50-f011-877a-000d3aca3406
+  adx_webpageid: 44d474ba-3781-4319-a1a8-82b60715c0be
+- adx_filecontent: 
+  adx_name: Restrict Read on Home
+  adx_right: 2
+  adx_scope: 2
+  adx_webpageaccesscontrolrule_webrole: []
+  adx_webpageaccesscontrolruleid: 9409923f-843a-7026-4f4c-76f69902ae47
+  adx_webpageid: 44d474ba-3781-4319-a1a8-82b60715c0be
+  statecode: 1
+  statuscode: 2
+- adx_name: Grant Change to Administrators
+  adx_right: 1
+  adx_webpageaccesscontrolrule_webrole:
+  - 112816ca-53c8-4065-9f1a-b901cfa0f45c
+  adx_webpageaccesscontrolruleid: e31b6f68-7195-4877-a633-59bc6bbe798d
+  adx_webpageid: 44d474ba-3781-4319-a1a8-82b60715c0be
+- adx_name: Grant Change to Content
+  adx_right: 1
+  adx_webpageaccesscontrolruleid: f5693b32-dc2d-4ccb-a013-a6ce85ac48bd

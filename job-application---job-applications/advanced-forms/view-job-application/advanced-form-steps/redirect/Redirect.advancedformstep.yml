@@ -1,0 +1,17 @@
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_entitypermissionsenabled: true
+adx_filecontent: 
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_movepreviouspermitted: true
+adx_name: Redirect
+adx_redirectwebpage: 44d474ba-3781-4319-a1a8-82b60715c0be
+adx_referenceentitysourcetype: 100000001
+adx_referencequerystringisprimarykey: true
+adx_type: 100000003
+adx_validationsummarylinksenabled: true
+adx_webform: 007eb888-74a0-4ee2-aa98-f1de2cbcbc5a
+adx_webFormMetadatas: []
+adx_webformstepid: c473e6d2-70ba-41cb-9703-1fad6b130615

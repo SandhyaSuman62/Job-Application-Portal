@@ -1,0 +1,17 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: ss_interview
+adx_entityname: Interview
+adx_entitypermission_webrole:
+- a086f184-f650-f011-877a-002248d623a7
+adx_entitypermissionid: c5382163-5945-4a6d-bee9-fd196ec58197
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: false
+adx_scope: 756150000
+adx_write: true

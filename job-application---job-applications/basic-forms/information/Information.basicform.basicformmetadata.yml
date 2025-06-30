@@ -1,0 +1,17 @@
+- adx_adddescription: false
+  adx_attributelogicalname: ss_primarycontact
+  adx_descriptionposition: 100000000
+  adx_entityform: d0c98f8d-6812-4420-b726-75d474a7c08e
+  adx_entityformforcreate: d0c98f8d-6812-4420-b726-75d474a7c08e
+  adx_entityformmetadataid: 258ad2da-f350-f011-877a-002248d623a7
+  adx_fieldisrequired: false
+  adx_ignoredefaultvalue: true
+  adx_name: Information ss_primarycontact
+  adx_onsavefromattribute: contactid
+  adx_onsavetype: 100000002
+  adx_prepopulatefromattribute: fullname
+  adx_prepopulatetype: 100000002
+  adx_randomizeoptionsetvalues: false
+  adx_setvalueonsave: true
+  adx_type: 100000000
+  adx_useattributedescriptionproperty: true

@@ -1,0 +1,21 @@
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_condition: show_admin_step != true
+adx_conditiondefaultnextstep: 30cccbc9-2f53-4962-be59-5fae903e8d01
+adx_entitypermissionsenabled: true
+adx_formname: Contact
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_movepreviouspermitted: true
+adx_name: Condition Role
+adx_nextstep: a35209c5-5424-411e-b5d9-791a17194ace
+adx_primarykeyattributelogicalname: contactid
+adx_primarykeyquerystringparametername: id
+adx_referenceentitysourcetype: 100000001
+adx_referencequerystringisprimarykey: true
+adx_targetentitylogicalname: contact
+adx_type: 100000000
+adx_validationsummarylinksenabled: true
+adx_webform: cc2c9ccc-3a5b-41ab-bdb8-ea8a0e78e329
+adx_webformstepid: 78865bfe-50a0-4fd5-9c8e-176a593ed86f

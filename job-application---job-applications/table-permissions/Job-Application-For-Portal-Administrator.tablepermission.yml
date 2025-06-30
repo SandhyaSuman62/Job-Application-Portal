@@ -1,0 +1,17 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: ss_jobapplications
+adx_entityname: Job Application For Portal Administrator
+adx_entitypermission_webrole:
+- a086f184-f650-f011-877a-002248d623a7
+adx_entitypermissionid: 6ea57c51-1f5c-4432-b8fb-58604bbcb485
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: true

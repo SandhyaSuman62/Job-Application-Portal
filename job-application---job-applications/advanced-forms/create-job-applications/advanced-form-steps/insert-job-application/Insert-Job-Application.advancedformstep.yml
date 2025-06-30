@@ -1,0 +1,31 @@
+adx_associatecurrentportaluser: true
+adx_attachfilemaxsize: 
+adx_attachfilestoragelocation: 756150000
+adx_entitypermissionsenabled: true
+adx_filecontent: 
+adx_formname: Information
+adx_geolocation_maptype: 756150000
+adx_hideformonsuccess: true
+adx_maximumnooffiles: 5
+adx_mode: 100000000
+adx_movepreviouspermitted: false
+adx_name: Insert Job Application
+adx_nextstep: bcdc8ad7-1158-4aab-9c17-5f9432299d89
+adx_populatereferenceentitylookupfield: true
+adx_referenceentitylogicalname: contact
+adx_referenceentityrelationshipname: ss_jobapplications_Primarycontact_contact
+adx_referenceentitysourcetype: 100000002
+adx_referenceentitystep: 312faba3-aada-4231-a2b3-ee78cda5e566
+adx_referencequerystringisprimarykey: true
+adx_referencequerystringname: id
+adx_referencerecordsourcerelationshipname: contact_customer_contacts
+adx_referencetargetlookupattributelogicalname: ss_primarycontact
+adx_setentityreference: true
+adx_tabname: General
+adx_targetentitylogicalname: ss_jobapplications
+adx_targetentityportaluserlookupattribute: ss_primarycontact
+adx_type: 100000001
+adx_validationsummarylinksenabled: true
+adx_webform: cc2c9ccc-3a5b-41ab-bdb8-ea8a0e78e329
+adx_webFormMetadatas: []
+adx_webformstepid: 312faba3-aada-4231-a2b3-ee78cda5e566

@@ -1,0 +1,144 @@
+- adx_disablepagevalidation: false
+  adx_displayimageonly: false
+  adx_displayorder: 1
+  adx_displaypagechildlinks: false
+  adx_name: Home
+  adx_openinnewwindow: false
+  adx_pageid: 44d474ba-3781-4319-a1a8-82b60715c0be
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: 096d9e39-13d1-4604-9c69-540ac27a0297
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+- adx_displayimageonly: false
+  adx_displayorder: 2
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: Create Job Application
+  adx_openinnewwindow: false
+  adx_pageid: 58cff027-b2ca-5ad1-7ee7-29a5f152daa2
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: 148d8fba-b416-39ab-2d8c-26dd8a865ff2
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 8
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: Job Applications
+  adx_openinnewwindow: false
+  adx_pageid: c2a1eda5-878b-2f61-3969-82cb7c7be0e5
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: 1b5d8d8d-7042-a74b-ff73-0474c924a344
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 3
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: Edit Job Application
+  adx_openinnewwindow: false
+  adx_pageid: ee5d1ad2-5407-9770-8b96-8e2749967738
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: 803b376e-80bc-dae7-0dd8-62dbe7d857ef
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 7
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Edit Job Opening
+  adx_openinnewwindow: false
+  adx_pageid: 28afbfb9-efcf-14ce-7643-b2f54b55bc12
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: 89b4fe10-246b-2c59-321e-6810b6bff418
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 10
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: View Application
+  adx_openinnewwindow: false
+  adx_pageid: 023ae5ae-d7a0-4539-7cd4-59f6beb3bc88
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: b4e51e5a-6953-eb75-1206-a8b97c6663b4
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 11
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: testtttt-deleted
+  adx_openinnewwindow: false
+  adx_pageid: 9bc3a60f-af2e-366b-f7cf-c90edb421753
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: c7959cae-605f-8883-b5a5-80a6ea3b8bc1
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 5
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Job Opening
+  adx_openinnewwindow: false
+  adx_pageid: 3c010270-60dc-ba98-aa0d-7b4ef3411417
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: c9631439-0ecf-336e-09e3-3fd47db7dc49
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+- adx_displayimageonly: false
+  adx_displayorder: 6
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Create Job Opening
+  adx_openinnewwindow: false
+  adx_pageid: 82442663-2509-6f07-b0b8-a121b96edb17
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: ca3eaba8-f54b-f774-40f7-cc8df6f00c53
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 9
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_name: Job Application
+  adx_openinnewwindow: false
+  adx_pageid: 73746b3b-33fc-9a2c-baad-ec0256531fdf
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: d436d101-f517-be32-2f51-c70a5d22586c
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2
+- adx_displayimageonly: false
+  adx_displayorder: 4
+  adx_displaypagechildlinks: false
+  adx_displaypagevalidation: false
+  adx_filecontent: 
+  adx_name: View Job Application
+  adx_openinnewwindow: false
+  adx_pageid: fc16f62b-bd77-99af-a1ab-124b39f975ea
+  adx_publishingstateid: 1dc0b9d1-737d-4b52-9218-e2608f14674c
+  adx_robotsfollowlink: true
+  adx_weblinkid: e5cfa6d7-3bd0-9954-e729-5597e80dde38
+  adx_weblinksetid: dadd96ea-21df-4266-b56a-0be46919ea2d
+  statecode: 1
+  statuscode: 2

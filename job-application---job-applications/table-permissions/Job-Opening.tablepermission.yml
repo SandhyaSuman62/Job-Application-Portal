@@ -1,0 +1,20 @@
+adx_accountrelationship: 
+adx_append: true
+adx_appendto: true
+adx_childTablePermissions: []
+adx_contactrelationship: 
+adx_create: true
+adx_delete: true
+adx_entitylogicalname: ss_jobopenings
+adx_entityname: Job Opening
+adx_entitypermission_webrole:
+- 112816ca-53c8-4065-9f1a-b901cfa0f45c
+- a086f184-f650-f011-877a-002248d623a7
+- fca95bfe-e166-4c92-99cc-4c0ab427d585
+adx_entitypermissionid: d3174a8e-d442-4c75-b358-10bde4784b57
+adx_filecontent: 
+adx_parententitypermission: 
+adx_parentrelationship: 
+adx_read: true
+adx_scope: 756150000
+adx_write: true

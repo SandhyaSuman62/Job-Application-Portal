@@ -1,0 +1,15 @@
+adx_editexistingrecordpermitted: true
+adx_filecontent: 
+adx_multiplerecordsperuserpermitted: true
+adx_name: View Job Application
+adx_progressindicatorenabled: true
+adx_progressindicatorposition: 756150000
+adx_progressindicatortype: 756150000
+adx_startnewsessiononload: true
+adx_startstep: 50b8e39e-a895-415d-8c15-7974bdf4ca25
+adx_webformid: 007eb888-74a0-4ee2-aa98-f1de2cbcbc5a
+adx_webFormSteps:
+- []
+- []
+- []
+- []
